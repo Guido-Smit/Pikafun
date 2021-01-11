@@ -4,7 +4,6 @@ import os
 from os import path
 
 #setup
-
 WIDTH = 800
 HEIGHT = 800
 FPS = 60
